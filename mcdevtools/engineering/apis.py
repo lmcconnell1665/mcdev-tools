@@ -1,5 +1,6 @@
 import requests
 
+
 def send_get_request(url):
     """
     Sends a GET request to the provided URL

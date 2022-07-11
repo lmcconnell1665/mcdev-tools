@@ -3,3 +3,4 @@ setuptools
 twine
 pytest
 pytest-runner
+flake8
