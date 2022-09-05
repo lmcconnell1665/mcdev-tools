@@ -11,6 +11,6 @@ setup(
     url='https://github.com/lmcconnell1665/mcdevtools',
     install_requires=[],
     setup_requires=['pytest-runner'],
-    tests_require=['pytest==7.1.2'],
+    tests_require=['pytest==7.1.3'],
     test_suite='tests',
 )
